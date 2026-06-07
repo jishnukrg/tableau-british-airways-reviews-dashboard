@@ -1,6 +1,7 @@
 # tableau-british-airways-reviews-dashboard
 
 ✈️ British Airways Reviews Dashboard (Tableau)
+<img width="1197" height="701" alt="Screenshot 2026-06-06 235954" src="https://github.com/user-attachments/assets/3086a88e-135e-4531-aabc-34b2c7f142be" />
 
 📊 Project Overview
 
